@@ -29,4 +29,4 @@ console.log(hashmap.division(10, 5)); // Saída: 2
 console.log(hashmap.sum([1, 2, 3])); // Saída: 6
 console.log(hashmap.subtractArray([10, 2, 3])); // Saída: -15
 console.log(hashmap.multiplyArray([2, 3])); // Saída: 6
-console.log(hashmap.division(5, 0)); // Lança uma excessão
+console.log(hashmap.division(5, 0)); // Lança uma exceção
